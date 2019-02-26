@@ -1,0 +1,41 @@
+<div class="row searchResult" > <!--TODO (click)="toggleShowDetail()" define toggleShowDetail() as method in google-book-detail.component.ts -->
+    <div class="col-md-8">
+        <div> title </div>
+        <small>subtitle</small>
+    </div>
+    <div class="col-md-4" style="text-align: right;"  >
+        <div>
+            authors 
+        </div>
+        <div>
+            publisher  (publishedDate) 
+        </div>
+    </div>
+</div>
+<div class="row" style="margin-top:0px;"> <!--TODO [hidden]="hideDetail" define hideDetail as boolean variable in google-book-item.component.ts -->
+    <div class="col-md-12 well well-lg">
+        <div class="col-md-2">
+            <img class="img-thumbnail" src="thumbnail" />
+        </div>
+        <div class="col-md-10">
+            <div class="col-md-12">
+                <span class="title">Description:</span> description 
+            </div>
+            <div class="col-md-12">
+                <span class="title">Type:</span> printType
+            </div>
+            <div class="col-md-12">
+                <span class="title">Page Count:</span> pageCount
+            </div>
+            <div class="col-md-12">
+                <span class="title">Catagories:</span> categories
+            </div>
+            <div class="col-md-12">
+                <span class="title">Average Rating:</span> averageRating
+            </div>
+            <div class="col-md-12">
+                <a href="previewLink" target="_blank" class="btn btn-default"><i class="fa fa-book"></i> Preview</a>
+            </div>
+        </div>
+    </div>
+</div>

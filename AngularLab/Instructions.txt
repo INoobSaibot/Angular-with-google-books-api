@@ -1,0 +1,67 @@
+>>>>Run ng new GoogleBooks 
+>>>>Add provided markup app.component.html 
+>>>>Add the provided styles to styles.css
+>>>>Add bootstrap cdn and provided header markup to index
+>>>>run ng g component googleBookItem
+>>>>Add provided markup to google-book-item.component.html
+>>>>Add googleBookItemComponent to app.component.html
+
+>>>>add a typical json response from https://www.googleapis.com/books/v1/volumes?q= to assets folder save file as json.
+>>>>run ng g class googleBookDataModel, add the following fields and method:
+    authors: Array<string>
+    title:        //make the rest type string
+    description
+    previewLink
+    infoLink
+    thumbnail
+    publisher
+    publishedDate
+    averageRating
+    printType
+    pageCount
+    subtitle
+    categories
+    
+    private jsonPropertyMappings(googleBooksVolumeInfo: any): void{
+        if(googleBooksVolumeInfo){
+            this.title = googleBooksVolumeInfo.title;
+            ... TODO map all the above fields 
+        } 
+    }
+>>>>> i dont get it what? where?
+run ng g service googleBooksFetcher and add it to the app.component.ts
+create the following method in googleBooksFetcher 
+    public getJSON(): Observable<GoogleBookDataModel> {
+        return this.httpClient.get("./assets/whateverYouNamedIt.json").pipe(
+            mergeMap((x:any) => x.items),
+            map((x:any) => {
+                let data = x.volumeInfo
+                let gbModel: GoogleBookDataModel = new GoogleBookDataModel(data);
+                return gbModel
+            })
+        )
+     }
+>>>>
+add lifecycle hook method to app.component.ts
+    ngOnInit(){
+       this.bookFetcher.getJSON().subscribe(data => {
+            console.log(data)
+            TODO populate results
+        }); 
+    } 
+
+create a variable   results: Array<GoogleBookDataModel> populate that variable in the ngOnInit method in app.component.ts
+
+implement the following todo in app.component.html
+     TODO add detail component here that takes in an item as an @Input().  Iterate over the results variable in app.component.ts using *ngFor in the parent div immediately above. 
+ 
+ implement google-book-item-component.html to get its value from a variable  @Input() item: GoogleBookDataModel define in google-book-item-component
+
+Once you have the page displaying correctly, add the toggle feature implementing the TODOs in google-book.item.component.html and adding the following variable and method to the google-books-item.commponent.ts:
+  showDetail: boolean = true
+  
+  toggleShowDetail(){
+   this.showDetail = !this.showDetail; 
+  }
+
+Implement a template driven form that populates the results variable in app.component.ts when submitted.

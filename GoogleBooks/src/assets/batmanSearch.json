@@ -1,0 +1,800 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 2192,
+    "items": [
+     {
+      "kind": "books#volume",
+      "id": "H-6JPwAACAAJ",
+      "etag": "5vOmXMyeNnE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H-6JPwAACAAJ",
+      "volumeInfo": {
+       "title": "Batman",
+       "subtitle": "The Dark Knight Returns",
+       "authors": [
+        "Frank Miller"
+       ],
+       "publisher": "Turtleback",
+       "publishedDate": "1997-04-01",
+       "description": "After 10 years away from the public eye, a wave of violence in Gotham City brings Batman back as a vigilante.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_10",
+         "identifier": "0613536703"
+        },
+        {
+         "type": "ISBN_13",
+         "identifier": "9780613536707"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": false
+       },
+       "pageCount": 227,
+       "printType": "BOOK",
+       "categories": [
+        "Batman (Fictitious character)"
+       ],
+       "averageRating": 4.0,
+       "ratingsCount": 3047,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "preview-1.0.0",
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=H-6JPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=H-6JPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=H-6JPwAACAAJ&dq=batman&hl=&cd=1&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=H-6JPwAACAAJ&dq=batman&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Batman.html?hl=&id=H-6JPwAACAAJ"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "NO_PAGES",
+       "embeddable": false,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=H-6JPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "NONE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "After ten years away from the public eye, a wave of violence in Gotham City brings Batman back as a vigilante."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "j-5XAAAACAAJ",
+      "etag": "5zOkJ/nSGuo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-5XAAAACAAJ",
+      "volumeInfo": {
+       "title": "Batman",
+       "subtitle": "The Ultimate Guide to the Dark Knight",
+       "authors": [
+        "Scott Beatty",
+        "Bob Kane"
+       ],
+       "publisher": "Dk Pub",
+       "publishedDate": "2005",
+       "description": "Profiles the life and career of Bruce Wayne, a.k.a. Batman, discussing his allies, enemies, and tools, and offers a timeline of his appearances from 1939 through 2005.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_10",
+         "identifier": "0756611210"
+        },
+        {
+         "type": "ISBN_13",
+         "identifier": "9780756611217"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": false
+       },
+       "pageCount": 144,
+       "printType": "BOOK",
+       "categories": [
+        "Juvenile Fiction"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "preview-1.0.0",
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=j-5XAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=j-5XAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=j-5XAAAACAAJ&dq=batman&hl=&cd=2&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=j-5XAAAACAAJ&dq=batman&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Batman.html?hl=&id=j-5XAAAACAAJ"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "NO_PAGES",
+       "embeddable": false,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=j-5XAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "NONE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Profiles the life and career of Bruce Wayne, a.k.a. Batman, discussing his allies, enemies, and tools, and offers a timeline of his appearances from 1939 through 2005."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "br1KlyUhmloC",
+      "etag": "aqZ/liZZMUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/br1KlyUhmloC",
+      "volumeInfo": {
+       "title": "Batman",
+       "subtitle": "Dead White",
+       "authors": [
+        "John Shirley",
+        "Bob Kane"
+       ],
+       "publisher": "Random House Digital, Inc.",
+       "publishedDate": "2006",
+       "description": "Batman takes on a psychotic mastermind called White Eyes, who plans to use a host of deadly new weapons, along with his allies, Gotham's racist Bavarian Brotherhood, to engineer the white supremacist takeover of America.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9780345479440"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "0345479440"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": false
+       },
+       "pageCount": 310,
+       "printType": "BOOK",
+       "categories": [
+        "Fiction"
+       ],
+       "averageRating": 3.5,
+       "ratingsCount": 2,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "0.2.0.0.preview.0",
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=br1KlyUhmloC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=br1KlyUhmloC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=br1KlyUhmloC&printsec=frontcover&dq=batman&hl=&cd=3&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=br1KlyUhmloC&dq=batman&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Batman.html?hl=&id=br1KlyUhmloC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=br1KlyUhmloC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Batman takes on a psychotic mastermind called White Eyes, who plans to use a host of deadly new weapons, along with his allies, Gotham&#39;s racist Bavarian Brotherhood, to engineer the white supremacist takeover of America."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "73wknu2cVIkC",
+      "etag": "1yF/DwwJJ4g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/73wknu2cVIkC",
+      "volumeInfo": {
+       "title": "Batman - The Complete History",
+       "subtitle": "The Life and Times of the Dark Knight",
+       "authors": [
+        "Les Daniels"
+       ],
+       "publisher": "Chronicle Books",
+       "publishedDate": "2004-04-01",
+       "description": "A richly illustrated chronicle of the popular comic book hero's evolution includes rare comic book art, sketches, and movie stills that capture the exploits of Bruce Wayne and his alter-ego Batman. Reprint.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_10",
+         "identifier": "0811842320"
+        },
+        {
+         "type": "ISBN_13",
+         "identifier": "9780811842327"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": true
+       },
+       "pageCount": 208,
+       "printType": "BOOK",
+       "categories": [
+        "Antiques & Collectibles"
+       ],
+       "averageRating": 4.5,
+       "ratingsCount": 5,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "preview-1.0.0",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=73wknu2cVIkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=73wknu2cVIkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=73wknu2cVIkC&printsec=frontcover&dq=batman&hl=&cd=4&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=73wknu2cVIkC&dq=batman&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Batman_The_Complete_History.html?hl=&id=73wknu2cVIkC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=73wknu2cVIkC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "A richly illustrated chronicle of the popular comic book hero&#39;s evolution includes rare comic book art, sketches, and movie stills that capture the exploits of Bruce Wayne and his alter-ego Batman. Reprint."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "tgxiRwAACAAJ",
+      "etag": "WoFyfP+WlmE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tgxiRwAACAAJ",
+      "volumeInfo": {
+       "title": "My First Batman Book",
+       "subtitle": "Touch and Feel",
+       "authors": [
+        "David Bar Katz"
+       ],
+       "publisher": "Downtown Bookworks",
+       "publishedDate": "2011-01-11",
+       "description": "The first book every comic book geek Dad will want to read to his child! And the first-ever touch-and-feel Batman book. Each of 6 spreads in this irresistibly cool package features classic Batman art and a special interactive feature. Budding Batman fans can: · Lift-the-flap to uncover Batman’s alter-ego, Bruce Wayne · See a glow-in-the-dark Bat-Signal · Zoom the Batmobile with a pull-tab · Swing Batman through Gotham City on a Batrope · Press buttons on Batman's computer · Look into a mirror to see Batman’s familiar little helper (complete with mask and Robin attire) Six touchables make for endless entertainment for all ages!",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_10",
+         "identifier": "1935703013"
+        },
+        {
+         "type": "ISBN_13",
+         "identifier": "9781935703013"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": false
+       },
+       "pageCount": 12,
+       "printType": "BOOK",
+       "categories": [
+        "Juvenile Fiction"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "preview-1.0.0",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=tgxiRwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=tgxiRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=tgxiRwAACAAJ&dq=batman&hl=&cd=5&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=tgxiRwAACAAJ&dq=batman&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/My_First_Batman_Book.html?hl=&id=tgxiRwAACAAJ"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "NO_PAGES",
+       "embeddable": false,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=tgxiRwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "NONE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "The first book every comic book geek Dad will want to read to his child!"
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "rQSSYIcqzs8C",
+      "etag": "fXVI1tD9UjQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rQSSYIcqzs8C",
+      "volumeInfo": {
+       "title": "Batman Begins",
+       "authors": [
+        "Dennis O'Neill"
+       ],
+       "publisher": "Random House Digital, Inc.",
+       "publishedDate": "2005",
+       "description": "Bruce Wayne, fleeing Gotham City after the murder of his parents, finds a mentor in a Himalayan prison, who will help with his transformation into the ultimate fighter against injustice and corruption.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9780345479464"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "0345479467"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": false
+       },
+       "pageCount": 305,
+       "printType": "BOOK",
+       "categories": [
+        "Fiction"
+       ],
+       "averageRating": 4.5,
+       "ratingsCount": 2,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "0.1.1.0.preview.0",
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=rQSSYIcqzs8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=rQSSYIcqzs8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=rQSSYIcqzs8C&printsec=frontcover&dq=batman&hl=&cd=6&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=rQSSYIcqzs8C&dq=batman&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Batman_Begins.html?hl=&id=rQSSYIcqzs8C"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=rQSSYIcqzs8C&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Bruce Wayne, fleeing Gotham City after the murder of his parents, finds a mentor in a Himalayan prison, who will help with his transformation into the ultimate fighter against injustice and corruption."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "zaZeMPXWuWcC",
+      "etag": "ir06K9cvdww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zaZeMPXWuWcC",
+      "volumeInfo": {
+       "title": "Becoming Batman",
+       "subtitle": "The Possibility of a Superhero",
+       "authors": [
+        "E. Paul Zehr"
+       ],
+       "publisher": "JHU Press",
+       "publishedDate": "2009-11-17",
+       "description": "A fun foray of escapism grounded in sound science, Becoming Batman provides the background for attaining the realizable—though extreme—level of human performance that would allow you to be a superhero.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9780801896217"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "0801896215"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": true
+       },
+       "pageCount": 320,
+       "printType": "BOOK",
+       "categories": [
+        "Science"
+       ],
+       "averageRating": 4.5,
+       "ratingsCount": 4,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "0.2.3.0.preview.1",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=zaZeMPXWuWcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=zaZeMPXWuWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=zaZeMPXWuWcC&printsec=frontcover&dq=batman&hl=&cd=7&source=gbs_api",
+       "infoLink": "https://play.google.com/store/books/details?id=zaZeMPXWuWcC&source=gbs_api",
+       "canonicalVolumeLink": "https://market.android.com/details?id=book-zaZeMPXWuWcC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "FOR_SALE_AND_RENTAL",
+       "isEbook": true,
+       "listPrice": {
+        "amount": 29.95,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amount": 18.6,
+        "currencyCode": "USD"
+       },
+       "buyLink": "https://play.google.com/store/books/details?id=zaZeMPXWuWcC&rdid=book-zaZeMPXWuWcC&rdot=1&source=gbs_api",
+       "offers": [
+        {
+         "finskyOfferType": 1,
+         "listPrice": {
+          "amountInMicros": 2.995E7,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 1.86E7,
+          "currencyCode": "USD"
+         },
+         "giftable": true
+        },
+        {
+         "finskyOfferType": 3,
+         "listPrice": {
+          "amountInMicros": 1.797E7,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 1.617E7,
+          "currencyCode": "USD"
+         },
+         "rentalDuration": {
+          "unit": "DAY",
+          "count": 180.0
+         }
+        }
+       ]
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": true
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=zaZeMPXWuWcC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "A fun foray of escapism grounded in sound science, Becoming Batman provides the background for attaining the realizable—though extreme—level of human performance that would allow you to be a superhero."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "ds0_qmwtJi0C",
+      "etag": "POV1DwBQjJU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ds0_qmwtJi0C",
+      "volumeInfo": {
+       "title": "Batman in the Sixties",
+       "authors": [
+        "Bob Kane"
+       ],
+       "publisher": "Dc Comics",
+       "publishedDate": "1999",
+       "description": "Chronicles the decade of the sixties in seventeen adventures as well as looks at the evolution of Batman's and Robin's costumes, their paraphernalia, and the Batcave",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_10",
+         "identifier": "1563894912"
+        },
+        {
+         "type": "ISBN_13",
+         "identifier": "9781563894916"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": false
+       },
+       "pageCount": 223,
+       "printType": "BOOK",
+       "categories": [
+        "Juvenile Fiction"
+       ],
+       "averageRating": 3.5,
+       "ratingsCount": 2,
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": false,
+       "contentVersion": "1.1.0.0.preview.0",
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ds0_qmwtJi0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ds0_qmwtJi0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=ds0_qmwtJi0C&q=batman&dq=batman&hl=&cd=8&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=ds0_qmwtJi0C&dq=batman&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Batman_in_the_Sixties.html?hl=&id=ds0_qmwtJi0C"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "NO_PAGES",
+       "embeddable": false,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": false
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=ds0_qmwtJi0C&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "NONE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Chronicles the decade of the sixties in seventeen adventures as well as looks at the evolution of Batman&#39;s and Robin&#39;s costumes, their paraphernalia, and the Batcave"
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "rujgfdUQ13gC",
+      "etag": "u1k94S1F2R4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rujgfdUQ13gC",
+      "volumeInfo": {
+       "title": "Batman: Five Riddles for Robin",
+       "authors": [
+        "Michael Dahl"
+       ],
+       "publisher": "Capstone",
+       "publishedDate": "2009",
+       "description": "When the Riddler succeeds in kidnapping Batman, Robin must solve the riddle left for him before time runs out on the Batman.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781434211514"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1434211517"
+        }
+       ],
+       "readingModes": {
+        "text": false,
+        "image": true
+       },
+       "pageCount": 88,
+       "printType": "BOOK",
+       "categories": [
+        "Juvenile Fiction"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "1.1.1.0.preview.1",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=rujgfdUQ13gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=rujgfdUQ13gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=rujgfdUQ13gC&printsec=frontcover&dq=batman&hl=&cd=9&source=gbs_api",
+       "infoLink": "http://books.google.com/books?id=rujgfdUQ13gC&dq=batman&hl=&source=gbs_api",
+       "canonicalVolumeLink": "https://books.google.com/books/about/Batman_Five_Riddles_for_Robin.html?hl=&id=rujgfdUQ13gC"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "NOT_FOR_SALE",
+       "isEbook": false
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": false
+       },
+       "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Batman_Five_Riddles_for_Robin-sample-pdf.acsm?id=rujgfdUQ13gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=rujgfdUQ13gC&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "When the Riddler succeeds in kidnapping Batman, Robin must solve the riddle left for him before time runs out on the Batman."
+      }
+     },
+     {
+      "kind": "books#volume",
+      "id": "j008AwAAQBAJ",
+      "etag": "E1DYAEW6cGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j008AwAAQBAJ",
+      "volumeInfo": {
+       "title": "Batman: Robin's First Flight",
+       "authors": [
+        "Robert Greenberger"
+       ],
+       "publisher": "Capstone",
+       "publishedDate": "2014",
+       "description": "Junior high school student TIM DRAKE is tired of being a hero-in-training. He’s ready to become the full-time sidekick of BATMAN, GOTHAM’S GREATEST CRIME FIGHTER. The DARK KNIGHT, however, has one final test for his anxious apprentice, and it won’t be easy. TIM will need the help of NIGHTWING, BATMAN’S former partner, to complete the timely task and finally take on the title . . . the next ROBIN.",
+       "industryIdentifiers": [
+        {
+         "type": "ISBN_13",
+         "identifier": "9781434298485"
+        },
+        {
+         "type": "ISBN_10",
+         "identifier": "1434298485"
+        }
+       ],
+       "readingModes": {
+        "text": true,
+        "image": true
+       },
+       "pageCount": 56,
+       "printType": "BOOK",
+       "categories": [
+        "Juvenile Fiction"
+       ],
+       "maturityRating": "NOT_MATURE",
+       "allowAnonLogging": true,
+       "contentVersion": "1.1.1.0.preview.3",
+       "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+       },
+       "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=j008AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=j008AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+       },
+       "language": "en",
+       "previewLink": "http://books.google.com/books?id=j008AwAAQBAJ&printsec=frontcover&dq=batman&hl=&cd=10&source=gbs_api",
+       "infoLink": "https://play.google.com/store/books/details?id=j008AwAAQBAJ&source=gbs_api",
+       "canonicalVolumeLink": "https://market.android.com/details?id=book-j008AwAAQBAJ"
+      },
+      "saleInfo": {
+       "country": "US",
+       "saleability": "FOR_SALE",
+       "isEbook": true,
+       "listPrice": {
+        "amount": 4.95,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amount": 2.99,
+        "currencyCode": "USD"
+       },
+       "buyLink": "https://play.google.com/store/books/details?id=j008AwAAQBAJ&rdid=book-j008AwAAQBAJ&rdot=1&source=gbs_api",
+       "offers": [
+        {
+         "finskyOfferType": 1,
+         "listPrice": {
+          "amountInMicros": 4950000.0,
+          "currencyCode": "USD"
+         },
+         "retailPrice": {
+          "amountInMicros": 2990000.0,
+          "currencyCode": "USD"
+         },
+         "giftable": true
+        }
+       ]
+      },
+      "accessInfo": {
+       "country": "US",
+       "viewability": "PARTIAL",
+       "embeddable": true,
+       "publicDomain": false,
+       "textToSpeechPermission": "ALLOWED",
+       "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Batman_Robin_s_First_Flight-sample-epub.acsm?id=j008AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Batman_Robin_s_First_Flight-sample-pdf.acsm?id=j008AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+       },
+       "webReaderLink": "http://play.google.com/books/reader?id=j008AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+       "accessViewStatus": "SAMPLE",
+       "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+       "textSnippet": "Junior high school student TIM DRAKE is tired of being a hero-in-training."
+      }
+     }
+    ]
+   }
